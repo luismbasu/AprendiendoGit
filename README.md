@@ -16,6 +16,10 @@ Este es mi primer repositorio para practicar Git y GitHub.
 - GitHub
 - Windows 10
 
+## Nuevos conocimientos
+
+Estoy aprendiendo la diferencia entre git fetch y git pull.
+
 ## Autor
 
 Luis

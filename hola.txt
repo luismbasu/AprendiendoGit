@@ -1,5 +1,5 @@
 Hola, estoy aprendiendo Git y GitHub.
-Este es mi primer repositorio.
+Este es mi primer repositorio modificado desde desarrollo.
 Estoy aprendiendo a controlar las versiones de mis proyectos.
 Estoy trabajando en la rama desarrollo.
 Esta modificación no debe afectar a la rama main.
